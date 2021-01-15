@@ -1751,7 +1751,7 @@ operates on a given argument, rather than on the string ``'xonsh'`` (notice how
 .. code-block:: console
 
     $ xonsh test2.xsh snails
-    ['test_script.sh', 'snails']
+    ['test2.xsh', 'snails']
     file0.txt  file1.txt  file2.txt  file3.txt  file4.txt  file5.txt  test_script.sh
     removing files
     test_script.sh
